@@ -1,2 +1,2 @@
-# GSB-test
-learning github
+# GSB
+learning materials
